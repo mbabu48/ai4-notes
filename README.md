@@ -1,5 +1,5 @@
 # ai4-notes
-Here is what I learnt at 10000 foot from Ai4 conference
+What I Learned from Ai4 — A 10,000-Foot View
 
 ## Key takeaways
 #### 🌐 1. Rise of Autonomous AI Agents
