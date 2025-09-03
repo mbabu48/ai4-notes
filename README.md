@@ -34,6 +34,9 @@ Here is what I learnt at 10000 foot from Ai4 conference
 
 Here are the summaries of the few sessions I attended. 
 
+### Build Multimodal agent workshop (MongoDB + VoyageAI)
+[Build Intelligent Multimodal Agentic AI](https://voyage-multimodal-demo.vercel.app/)
+
 ### AI Safety & Creative Disruption - Keynote
 - AI must develop maternal instincts to ensure human safety.
 - Regulation alone cannot control existential AI risks.
